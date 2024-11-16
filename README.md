@@ -12,6 +12,9 @@ Este repositório guarda o código do meu servidor pessoal. É simples, servindo
 - `src/`: Contém o código fonte da aplicação.
 - `scripts/`: Contém scripts auxiliares, incluindo `setup.sh` para facilitar a instalação.
 - `docs/`: Documentação adicional, como guias de configuração e uso.
+- `home/`: Serve para deixar os dados dos usuario.
+- `srv/`: Aonde os arquivos, projetos serão salvos.
+- `tmp/`: O termo `tpm` é de temporario, funcionando para deixar arquivos que serão retirados em seguida.
 
 ## Pré-requisitos
 - [Liste as dependências, como Python, Node.js, etc.]

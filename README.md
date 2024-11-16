@@ -22,6 +22,11 @@ Este repositório guarda o código do meu servidor pessoal. É simples, servindo
 
 ## Scripts
 
-1. Automação de arquivo do `tmp`:
+1. Automação de arquivo:
    ```bash
    git clone https://github.com/1mperador/ServerPulse-scripts.git
+   ```
+2. Armazenamento de arquivos:
+   ```bash
+   git clone https://github.com/1mperador/ServerPulse-storage.git
+   ```

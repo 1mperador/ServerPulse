@@ -20,8 +20,8 @@ Este repositório guarda o código do meu servidor pessoal. É simples, servindo
 - [Liste as dependências, como Python, Node.js, etc.]
 - [Qualquer software necessário]
 
-## Passo a Passo de Instalação
+## Scripts
 
-1. Clone este repositório:
+1. Automação de arquivo do `tmp`:
    ```bash
    git clone https://github.com/1mperador/ServerPulse-scripts.git

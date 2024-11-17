@@ -5,8 +5,10 @@
               |_____|___|_|  \_/|___|_| |__|  |___|_|___|___|                                              
 
 ```
- 
-Este repositório guarda o código do meu servidor pessoal. É simples, servindo como base para diferentes projetos e tarefas de dados. Funciona bem com ferramentas de automação e dá suporte à execução de aplicações, gerenciamento de arquivos e tarefas de rede. O objetivo é mantê-lo flexível e pronto para desenvolvimento e uso.
+
+## Explicação
+
+Este repositório guarda o código do meu servidor. É simples, servindo como base para diferentes projetos e tarefas de dados. Funciona bem com ferramentas de automação e dá suporte à execução de aplicações, gerenciamento de arquivos e tarefas de rede. O objetivo é mantê-lo flexível e pronto para desenvolvimento e uso.
 
 ## Estrutura do Repositório
 - `src/`: Contém o código fonte da aplicação.

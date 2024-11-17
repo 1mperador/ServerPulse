@@ -26,6 +26,12 @@ Este repositório guarda o código do meu servidor pessoal. É simples, servindo
 - [Liste as dependências, como Python, Node.js, etc.]
 - [Qualquer software necessário]
 
+## IP estatico
+- Subnet: XXX.XXX.X.0/24
+- Address: XXX.XXX.X.XX
+- Gateway: XXX.XXX.X.1
+
+
 ## Scripts
 
 1. Automação de arquivo:

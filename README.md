@@ -39,5 +39,6 @@ Este repositório guarda o código do meu servidor. É simples, servindo como ba
    git clone https://github.com/1mperador/ServerPulse-storage.git
    ```
 
-Licença
+## Licença
+
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para mais detalhes. Copyright (c) 2024 1mperador.

@@ -18,27 +18,11 @@ Este repositório guarda o código do meu servidor. É simples, servindo como ba
 - `srv/`: Aonde os arquivos, projetos serão salvos.
 - `tmp/`: O termo `tpm` é de temporario, funcionando para deixar arquivos que serão retirados em seguida.
 
-## Pré-requisitos
-- [Liste as dependências, como Python, Node.js, etc.]
-- [Qualquer software necessário]
-
-## IP estatico
+## Configuração no Ubuntu do IP estatico
 - Subnet: XXX.XXX.X.0/24
 - Address: XXX.XXX.X.XX
 - Gateway: XXX.XXX.X.1
 
-
-## Scripts
-
-1. Automação de arquivo:
-   ```bash
-   git clone https://github.com/1mperador/ServerPulse-scripts.git
-   ```
-2. Armazenamento de arquivos:
-   ```bash
-   git clone https://github.com/1mperador/ServerPulse-storage.git
-   ```
-
+(X = seria seu ip, então você adiciona os numeros que precisa no subnet e gateway.)
 ## Licença
-
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para mais detalhes. Copyright (c) 2025 1mperador.
